@@ -1,8 +1,24 @@
 {
-  "name": "demo-app",
+  "name": "designproject",
   "version": "1.0.0",
   "dependencies": {
-    "lodash": "^4.17.4",
-    "tap": "*"
-  }
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cicimarisa/designproject.git"
+  },
+  "author": "cicimarisa <cicimarisahardianti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cicimarisa/designproject/issues"
+  },
+  "homepage": "https://github.com/cicimarisa/designproject#readme",
+  "main": "nodelodashtry.js",
+  "keywords": [],
+  "description": ""
 }
